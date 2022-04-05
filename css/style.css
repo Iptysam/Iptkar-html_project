@@ -1,0 +1,13 @@
+body {
+  margin: 15px;
+  padding: 5px;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+fieldset {
+  width: 200px;
+}
